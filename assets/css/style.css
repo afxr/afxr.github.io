@@ -2,7 +2,7 @@
 body {
     background-color: #1a1a1a; /* Dark background */
     color: #4682b4; /* Steel blue text */
-    font-family: Arial, sans-serif;
+    font-family: "Courier New", Courier, monospace; /* Typewriter font */
     margin: 0;
     padding: 0;
 }
