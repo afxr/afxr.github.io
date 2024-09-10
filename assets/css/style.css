@@ -1,7 +1,7 @@
 /* Set dark background and steel blue text */
 body {
-    background-color:   #2F4F4F; /* Dark background */
-    color: #4a5893; /* Steel blue text */
+    background-color:   #708090; /* Dark background */
+    color: #E6E6FA; /* Steel blue text */
     font-family: "Courier New", Courier, monospace; /* Typewriter font */
     margin: 0;
     padding: 0;
@@ -22,7 +22,7 @@ body {
 }
 
 .sidebar h2 {
-    color:#2F4F4F;
+    color: #708090;
     margin-top: 0;
     font-size: 1.5em;
 }
@@ -37,7 +37,7 @@ body {
 }
 
 .sidebar ul li a {
-    color: #4a5893;
+    color: #708090;
     text-decoration: none;
 }
 
@@ -49,10 +49,10 @@ body {
 .content {
     flex: 1;
     padding: 20px;
-    color: #4a5893; /* Steel blue text */
-    background-color:#2F4F4F; /* Same dark background */
+    color: #E6E6FA; /* Steel blue text */
+    background-color: #708090; /* Same dark background */
 }
 
 .content h1 {
-    color: #4a5893; /* White color for headings */
+    color: #E6E6FA; /* White color for headings */
 }
