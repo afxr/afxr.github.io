@@ -1,8 +1,8 @@
 ---
 layout: default
-title: First Post
+title: whoami /all
 ---
 
-# First Post
+# whoami /all
 
-Test post 
+Who??
